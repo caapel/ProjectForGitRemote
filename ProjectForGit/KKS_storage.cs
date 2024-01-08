@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectForGit
 {
-    internal class ReportMaker
+    internal class KKS_storage
     {
     }
 }
