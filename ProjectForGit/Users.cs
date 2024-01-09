@@ -9,5 +9,6 @@ namespace ProjectForGit
     internal class Users
     {
         // решил подзадачи 4
+        // решил подзадачу 5.2.
     }
 }
