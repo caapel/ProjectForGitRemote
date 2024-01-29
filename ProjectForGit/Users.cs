@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectForGit
 {
-    internal class Users
+    public class Users
     {
         // решил подзадачи 4
         // решил подзадачу 5.2.
